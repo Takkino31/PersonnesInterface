@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PersonnesInterface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fefe22b0df174899fa72ff9b66e14f0f05ba994")]
 [assembly: System.Reflection.AssemblyProductAttribute("PersonnesInterface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PersonnesInterface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
